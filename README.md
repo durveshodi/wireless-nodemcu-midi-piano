@@ -7,7 +7,7 @@ This project enables you to build a wireless MIDI piano using a NodeMCU board an
 - Wireless MIDI communication between the NodeMCU board and MIDI software.
 - Support for multiple MIDI channels and note velocity.
 - Customizable mappings between MIDI notes and GPIO pins.
-- Easy integration with popular MIDI software and controllers.
+- Easy integration with popular MIDI software.
 
 ## Hardware Requirements
 
@@ -18,7 +18,7 @@ To set up the wireless MIDI piano, you will need the following hardware componen
 - Breadboard and jumper wires
 - Resistors and capacitors (as required)
 - Power supply for NodeMCU board (USB cable or external power source)
-- Wi-Fi network for communication between NodeMCU and MIDI controller
+- Wi-Fi network for communication between NodeMCU and MIDI solftware
 
 ## Software Requirements
 
